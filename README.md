@@ -8,3 +8,9 @@ Throughout the project, I experimented with both position control and torque con
 To improve stability, I adjusted the joint limits, ensuring that the robot could stand up after falling. Monitoring the training progress was essential, so I visualized various metrics such as average reward, KL divergence, and explained variance to assess the model’s performance.
 
 Through continuous tuning of the reward function and action limits, I successfully trained the robotic dog to achieve stable walking behavior, showing significant improvement in its movement and control.
+
+
+Down below is a video showing the walking behaviour pre and post training.
+
+https://github.com/user-attachments/assets/181fef00-45f7-45d2-81e1-4ba6adeac9a0
+
